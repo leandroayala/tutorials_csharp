@@ -1,0 +1,13 @@
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.exe
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.deps.json
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.runtimeconfig.json
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.runtimeconfig.dev.json
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.dll
+C:\dev\.NET\Estudos\Estudos\bin\Debug\netcoreapp3.1\Estudos.pdb
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.csprojAssemblyReference.cache
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.AssemblyInfoInputs.cache
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.AssemblyInfo.cs
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.csproj.CoreCompileInputs.cache
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.dll
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.pdb
+C:\dev\.NET\Estudos\Estudos\obj\Debug\netcoreapp3.1\Estudos.genruntimeconfig.cache

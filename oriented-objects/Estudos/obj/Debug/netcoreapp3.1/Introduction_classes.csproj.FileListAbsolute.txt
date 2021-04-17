@@ -1,0 +1,13 @@
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.exe
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.deps.json
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.runtimeconfig.json
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.runtimeconfig.dev.json
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.dll
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\bin\Debug\netcoreapp3.1\Introduction_classes.pdb
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.csprojAssemblyReference.cache
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.AssemblyInfoInputs.cache
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.AssemblyInfo.cs
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.csproj.CoreCompileInputs.cache
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.dll
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.pdb
+C:\Users\Leandro Ayala\Documents\Projects\.NET\tutorials_csharp\oriented-objects\Estudos\obj\Debug\netcoreapp3.1\Introduction_classes.genruntimeconfig.cache
